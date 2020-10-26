@@ -1,3 +1,4 @@
+//vicky
 import java.util.Arrays
 fun main() {
     val array = arrayOf(1, 3, 5, 7)

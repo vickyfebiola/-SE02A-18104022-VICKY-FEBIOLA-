@@ -1,3 +1,4 @@
+//vicky
 fun main() {
     var counter = 1
     while (counter <= 7){

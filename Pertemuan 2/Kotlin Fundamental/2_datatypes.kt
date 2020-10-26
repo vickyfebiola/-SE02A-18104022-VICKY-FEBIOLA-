@@ -1,3 +1,4 @@
+//vicky
 fun main() {
     val kataAwal = "Saya"
     val kataAkhir = "Hebat"

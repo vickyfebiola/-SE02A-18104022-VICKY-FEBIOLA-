@@ -1,3 +1,4 @@
+//vicky
 fun main() {
     val value = 20
     when(value){
