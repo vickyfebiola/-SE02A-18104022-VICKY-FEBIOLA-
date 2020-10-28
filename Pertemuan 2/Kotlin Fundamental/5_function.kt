@@ -1,3 +1,4 @@
+//vicky
 fun main() {
     val user = setUser("Rifkiy Stark", 20)
     println(user)

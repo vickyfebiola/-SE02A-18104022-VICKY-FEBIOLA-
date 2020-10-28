@@ -1,4 +1,4 @@
-package com.rifkiy.myapplication
+package com.vicky.myapplication
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
